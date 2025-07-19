@@ -71,7 +71,7 @@ npm run dev
 
 ## image
 
-![image]()
+![image](https://github.com/Vadiraj-19/stopwatch/blob/main/stopwatch.png)
 
 ## 📝 License
 
